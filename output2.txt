@@ -1,0 +1,6 @@
+Type any number of couples of integers each time. Finally q and enter to finish your input
+	 0 2
+	 5 6
+	 3 4
+	 0 4
+	 id[0] = 2	 id[1] = 1	 id[2] = 4	 id[3] = 4	 id[4] = 4	 id[5] = 6	 id[6] = 6
